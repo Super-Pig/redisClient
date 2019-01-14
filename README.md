@@ -18,7 +18,7 @@ const redisConfig = {
     port: '6379'
 };
 
-const redisClient = require('../index')(redisConfig);
+const redisClient = require('@newhope/redisClient')(redisConfig);
 ```
 
 # callback 方式
