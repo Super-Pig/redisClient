@@ -8,7 +8,7 @@
 
 # 安装
 
-`npm install @newhope/redisClient --save`
+`npm install @xwfintech/redisclient --save`
 
 # 引用
 
@@ -18,7 +18,7 @@ const redisConfig = {
     port: '6379'
 };
 
-const redisClient = require('@newhope/redisClient')(redisConfig);
+const redisClient = require('@xwfintech/redisclient')(redisConfig);
 ```
 
 # callback 方式
