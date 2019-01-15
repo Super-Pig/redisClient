@@ -1,6 +1,6 @@
 {
-  "name": "@nwehope/redisclient",
-  "version": "1.0.1",
+  "name": "@xwfintech/redisclient",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
